@@ -7277,12 +7277,11 @@ a.credit {
 }
 
 .social-detail{
-  position: absolute;
+  position: relative;
   content: '';
-  width: 70%;
+  width: 80%;
   height: 2px;
-  left: 20%;
   top: 50%;
-  margin-top: 1px;
+  margin: 1px auto;
   background: #cbcbcb;
   }
